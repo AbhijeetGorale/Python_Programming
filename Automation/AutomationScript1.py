@@ -3,7 +3,7 @@ import sys
 def main():
     Border = "-"*40
     print(Border)
-    print("--------- Marvellous Automation --------")
+    print("--------- Automation --------")
     print(Border)
 
     if(len(sys.argv) == 2):
@@ -29,8 +29,8 @@ def main():
         print("--h : Used to display the help")      
 
     print(Border)
-    print("-----Thank you for using our script-----")
-    print("--------- Marvellous Infosytems --------")
+    print("-----Thank you for using script-----")
+    print("----------------------------------------")
     print(Border)
     
 if __name__ == "__main__":
