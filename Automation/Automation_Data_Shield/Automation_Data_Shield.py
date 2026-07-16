@@ -65,7 +65,7 @@ def BackupFiles(Source, Destination):
     return copied_files
 
     
-def MarvellousDataShieldStart(Source = "Data"):
+def DataShieldStart(Source = "Data"):
     Border = "-"*50
     
     BackupName = "Backup_Folder"
@@ -89,7 +89,7 @@ def main():
 
     Border = "-"*50
     print(Border)
-    print("--------- Marvellous Data Shield System ----------")
+    print("--------- Data Shield System ----------")
     print(Border)
 
     if(len(sys.argv) == 2):
@@ -109,14 +109,14 @@ def main():
             print("Unable to proceed as there is no such option")
             print("Please use --h or --u to get more details")
     
-    # python Demo.py 5 Data
+    
     elif(len(sys.argv) == 3):
         print("Inside projects logic")
         print("Time interval : ",sys.argv[1])
         print("Directory name : ",sys.argv[2])
 
         # Apply the schedular
-        schedule.every(int(sys.argv[1])).minutes.do(MarvellousDataShieldStart, sys.argv[2])
+        schedule.every(int(sys.argv[1])).minutes.do(DataShieldStart, sys.argv[2])
 
         print(Border)
         print("Data Sheild System started succesfully")
