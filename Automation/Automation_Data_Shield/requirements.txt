@@ -1,0 +1,8 @@
+# Automated Data Shield - Requirements
+# Install all dependencies with: pip install -r requirements.txt
+
+# External libraries
+schedule==1.2.0   # Lightweight job scheduling for periodic backups
+
+# Standard libraries used (already included with Python, listed for clarity):
+# os, sys, time, shutil, hashlib, zipfile

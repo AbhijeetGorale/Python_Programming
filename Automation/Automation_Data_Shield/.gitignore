@@ -1,0 +1,30 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Backup folders and archives created by the script
+Backup_Folder/
+Backup_Folder_*.zip
+
+# Logs
+*.log
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/project settings
+.vscode/
+.idea/
+*.swp
+
+# Test/temporary files
+*.tmp
+*.bak
