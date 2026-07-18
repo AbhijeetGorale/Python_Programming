@@ -28,6 +28,7 @@ The system generates **timestamped log files** of all operations and can automat
 
 ## 📂 Project Structure
 
+```
 python-programming/
 │
 ├── automation/
@@ -39,7 +40,7 @@ python-programming/
 │   │   ├── requirements.txt
 │   │   ├── .gitignore
 │   │   └── LICENSE
-|   |
+```
 
 ---
 
