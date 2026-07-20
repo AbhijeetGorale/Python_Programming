@@ -14,10 +14,12 @@ An automated backup utility written in Python that periodically backs up files f
 ---
 
 ## 📂 Project Structure
+```
 AutomatedDataShield.py   # Main Python script
 Data/                    # Example source directory (your files go here)
 Backup_Folder/           # Auto-created backup folder (generated at runtime)
 Backup_Folder_YYYY-MM-DD_HH-MM-SS.zip  # Timestamped archive
+```
 
 
 ---
