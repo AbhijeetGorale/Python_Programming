@@ -90,7 +90,7 @@ def ProcessScan():
         except:
             pass
 
-    time.sleep(0.2)
+    time.sleep(1)
 
     for proc in psutil.process_iter():
         try:
