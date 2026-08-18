@@ -118,4 +118,4 @@ This project is open-source and available under the MIT License. Feel free to us
 
 👨‍💻 Author
 Developed by Abhijeet Gorale  
-GitHub: https://github.com/AbhijeetGorale
+GitHub: https//github.com/AbhijeetGorale
