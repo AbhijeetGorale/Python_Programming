@@ -61,3 +61,9 @@ Create a new branch
 Commit your changes
 
 Open a pull request
+
+
+
+📜 License
+This project is licensed under the MIT License — feel free to use and modify the code.
+
