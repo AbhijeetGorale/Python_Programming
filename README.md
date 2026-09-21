@@ -73,40 +73,6 @@ Abhijeet Gorale
 
 GitHub: AbhijeetGorale 
 
-
-
-
-
-2. Explore the contents:
-   - **Automation** → Ready-to-run scripts designed to save you time
-   - **Practice** → Engaging exercises and insightful examples to deepen your understanding
-
----
-
-## 🤝 Contributing
-
-Your contributions can make a difference!
-
-1. Fork the repository.
-2. Create a new branch.
-3. Commit your changes.
-4. Open a pull request to share your enhancements.
-
----
-
-## 📜 License
-
-This project is released under the MIT License — feel free to use, modify, and spread the knowledge!
-
----
-
-## 👨‍💻 Author
-
-**Abhijeet Gorale**
-
-- GitHub: [AbhijeetGorale](https://github.com/AbhijeetGorale)
-- LinkedIn: [Abhijeet Gorale](https://www.linkedin.com/in/abhijeet-gorale)
-
 I am passionate about leveraging Python for automation and crafting data-driven solutions that can transform your projects. Join me on this journey to mastering Python!
 
 Passionate about Python, automation, and data-driven solutions.
