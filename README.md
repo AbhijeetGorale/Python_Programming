@@ -72,50 +72,10 @@ This project is licensed under the MIT License — feel free to use and modify t
 Abhijeet Gorale
 
 GitHub: AbhijeetGorale 
-Linkdin: Abhijeet Gorale# 🐍 Python Programming
 
 
 
-## 📂 Repository Structure
 
-- **Automation/**
-  - Discover a rich collection of scripts and mini-projects focused on streamlining repetitive tasks.
-  - Examples include file handling, web scraping, API interactions, and job scheduling, all crafted to enhance productivity.
-
-- **Practice/**
-  - Engage with hands-on coding exercises, algorithm implementations, and problem-solving challenges.
-  - Perfect for interview preparation, mastering the fundamentals, and experimenting with advanced Python features.
-
----
-
-## 🚀 Features
-
-- Thoughtfully organized into **Automation** and **Practice** modules for easy navigation.
-- Covers a wide range of Python concepts, from beginner to intermediate levels.
-- Rich examples of:
-  - Data structures & algorithms
-  - File I/O operations
-  - API testing & integration
-  - Automation workflows tailored to real-world applications
-
----
-
-## 🛠️ Tech Stack
-
-- **Language:** Python 3.x
-- **Tools:**
-  - Jupyter Notebook (for an interactive practice experience)
-  - Standard Python libraries (`os`, `sys`, `requests`, etc.) to get you started
-  - Essential additional libraries documented in each script for your convenience
-
----
-
-## 📖 Getting Started
-
-1. Get started by cloning the repository:
-   ```bash
-   git clone https://github.com/AbhijeetGorale/Python_Programming.git
-   ```
 
 2. Explore the contents:
    - **Automation** → Ready-to-run scripts designed to save you time
