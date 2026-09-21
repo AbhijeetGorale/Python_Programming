@@ -74,9 +74,7 @@ Abhijeet Gorale
 GitHub: AbhijeetGorale 
 Linkdin: Abhijeet Gorale# 🐍 Python Programming
 
-Welcome to **Python Programming** — your ultimate resource for a diverse array of Python scripts, projects, and practical exercises, all designed to elevate your programming skills and delve into the exciting world of automation.
 
----
 
 ## 📂 Repository Structure
 
