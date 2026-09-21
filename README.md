@@ -7,7 +7,7 @@ Welcome to **Python_Programming** — a collection of Python scripts, projects, 
 ## 📂 Repository Structure
 
 - **Automation/**
-  - Scripts and mini-projects focused on automating repetitive tasks.
+  - Scripts and mini-projects focused on automating tasks.
   - Examples: file handling, web scraping, API interactions, scheduling jobs.
 
 - **Practice/**
